@@ -1,15 +1,17 @@
 let allContacts = []
 
 const addContact = function(firstName, lastName, email) {
+
   console.log('addContact:', 'TODO')
 }
 
 const addContacts = function(contactData) {
+
   console.log('addContacts:', 'TODO')
 }
 
 const printContacts = function(contacts) {
-  let listByFirstName = name.sort(function(a, b) {
+  let listByFirstName = addContacts.sort(function(a, b) {
       var nameA = a.name.toUppperCase()
       var nameB = b.name.toUpperCase()
       if (nameA < nameB) {
@@ -20,7 +22,7 @@ const printContacts = function(contacts) {
       }
       return 0
     })
-  console.log('printContacts:', 'TODO')
+  console.log(listByFirstName)
 }
 
 ///////////////////////////////////////////////////////////////////////////
