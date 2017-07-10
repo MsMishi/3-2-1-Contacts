@@ -1,0 +1,28 @@
+{
+  "name": "3-2-1-contacts",
+  "version": "1.0.0",
+  "description": "Contact list Benchmark",
+  "main": "addContact.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MsMishi/3-2-1-Contacts.git"
+  },
+  "keywords": [
+    "contacts",
+    "benchmark",
+    "phase-1"
+  ],
+  "author": "Mishi Charles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MsMishi/3-2-1-Contacts/issues"
+  },
+  "homepage": "https://github.com/MsMishi/3-2-1-Contacts#readme",
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
